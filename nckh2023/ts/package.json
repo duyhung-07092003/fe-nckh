@@ -1,0 +1,13 @@
+
+{
+  "name": "display-password",
+  "version": "1.0.0",
+  "description": "A library to display password when click on eye icon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
